@@ -156,7 +156,7 @@ Contributions are what make the open-source community an amazing place to learn,
 
 **Your Name** &nbsp;·&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://linkedin.com/in/your-profile) &nbsp;·&nbsp; [![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail)](mailto:your.email@example.com)
 
-**Project Link:** [https://github.com/your-username/note_app](https://github.com/your-username/note_app)
+**Project Link:** [https://github.com/Khaled119/note_app](https://github.com/Khaled119/note_app)
 
 </div>
 
